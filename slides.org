@@ -8,7 +8,7 @@
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 
 
-* PureScript Genetics Browser
+* Genetics Browser & Variant Graph Visualization
 
 Christian Fischer
 
