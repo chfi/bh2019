@@ -1,0 +1,34 @@
+#+REVEAL_THEME: simple
+#+REVEAL_TRANS: none
+#+REVEAL_EXTRA_CSS: ./local.css
+#+OPTIONS: num:nil
+#+OPTIONS: toc:nil
+#+OPTIONS: reveal_center:nil
+#+OPTIONS: reveal_title_slide:nil
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+
+
+* PureScript Genetics Browser
+
+Christian Fischer
+
+University of Tennessee Health Science Center
+
+
+* Demo
+
+https://chfi.github.io/genetics-browser-example/track
+
+* Features
+
+#+ATTR_REVEAL: :frag (appear appear appear appear)
+- Written in PureScript
+- Interactive
+- Generic and extensible architecture
+- Flexible and fast rendering
+
+* Future (this week?)
+
+#+ATTR_REVEAL: :frag (appear appear)
+- Variant graph visualization
+- Track interactivity and data connectivity
